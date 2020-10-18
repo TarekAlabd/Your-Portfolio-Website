@@ -40,6 +40,12 @@ Please :star: this repo to help us improve the quality.
 4. Edit and add what you want.
 For sure, your pull requests is welcomed. 😃 
 
+**Don't Forget these commands if you will use flutter web for the first time**
+
+        flutter channel beta
+        flutter upgrade
+        flutter config --enable-web
+
 ## Contact me ☎️ 
 LinkedIn: [Tarek Alabd](https://linkedin.com/in/TarekAlabd)  
 Twitter: [@TarekAlabd](https://twitter.com/TarekAlabd)
