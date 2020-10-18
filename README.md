@@ -17,3 +17,6 @@ It's a good tutorial that helps you build your portfolio website by flutter web.
 ## Star it!
 Please :star: this repo to help us improve the quality.
 
+## Preview (screenshot) 🎥 
+![Your Portfolio Website - preview image](assets/images/preview.png) |
+
