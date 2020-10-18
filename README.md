@@ -20,3 +20,7 @@ Please :star: this repo to help us improve the quality.
 ## Preview (screenshot) 🎥 
 ![Your Portfolio Website - preview image](assets/images/preview.png) |
 
+## Language & Framework
+* Dart
+* Flutter
+
