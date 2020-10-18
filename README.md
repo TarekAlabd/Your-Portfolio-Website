@@ -18,9 +18,21 @@ It's a good tutorial that helps you build your portfolio website by flutter web.
 Please :star: this repo to help us improve the quality.
 
 ## Preview (screenshot) 🎥 
-![Your Portfolio Website - preview image](assets/images/preview.png) |
+![Your Portfolio Website - preview image](assets/images/preview.png)
 
 ## Language & Framework
 * Dart
 * Flutter
 
+## Contribtuing 💡
+1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/TarekAlabd/Your-Portfolio-Website.git
+2. Open this project on Android Studio or visual studio (as you want).
+3. Run the app on the emulator or simulator.
+4. Edit and add what you want.
+For sure, your pull requests is welcomed. 😃 
+
+## Contact me ☎️ 
+LinkedIn: [Tarek Alabd](https://linkedin.com/in/TarekAlabd)  
+Twitter: [@TarekAlabd](https://twitter.com/TarekAlabd)
